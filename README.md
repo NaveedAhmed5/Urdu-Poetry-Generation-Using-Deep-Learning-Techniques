@@ -2,7 +2,7 @@
 
 This project implements a comparative analysis of Sequence-to-Sequence models (RNN, LSTM, Transformer) and optimization algorithms (Adam, RMSprop, SGD) for Urdu poetry generation.
 
-<<<<<<< HEAD
+
 =======
 ## Developers
 
@@ -65,11 +65,6 @@ The notebooks contain detailed visualizations of:
 - Training and Validation Loss curves.
 - Accuracy trends over epochs.
 - Generated poetry samples at different temperatures (0.7, 1.0, 1.3).
-<<<<<<< HEAD
 
-## Developers
-
-- [Waseem Akhtar](https://github.com/waseem087)
-- [Naveed Ahmed](https://github.com/NaveedAhmed5)
 =======
 >>>>>>> 7c32989ac7d79e0deb74d725421a21949119d3ff
